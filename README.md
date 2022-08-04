@@ -2,7 +2,6 @@
 <h3 align="center">A passionate programmer from Pakistan</h3>
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/premium-vector/programmer-semi-flat-color-vector-character-student-figure-sitting-person-white-man-computer-desk-coding-isolated-modern-cartoon-style-illustration-graphic-design-animation_151150-5964.jpg?w=740">
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahxeebhassan&label=Profile%20views&color=0e75b6&style=flat" alt="shahxeebhassan" /> </p>
 
 <p align="left"> <a href="https://twitter.com/shahxaibhassan" target="blank"><img src="https://img.shields.io/twitter/follow/shahxaibhassan?logo=twitter&style=for-the-badge" alt="shahxaibhassan" /></a> </p>
