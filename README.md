@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/shahxaib_hassan" target="blank"><img src="https://img.shields.io/twitter/follow/shahxaibhassan?logo=twitter&style=for-the-badge" alt="shahxaibhassan" /></a> </p>
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 📫 How to reach me **shahxeebhassan@gmail.com**
 
